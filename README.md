@@ -5,7 +5,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=antidiscord&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antidiscord&hide=css,java,html&theme=tokyonight">
 </p>
-</details>
 
 
 
@@ -15,4 +14,3 @@
 <details>
   <summary> <b>Contact</b> </summary>
 <img src="https://lanyard.cnrad.dev/api/952231039542108280" onclick="window.open(https://discord.com/users/952231039542108280)">
-<details>
