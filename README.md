@@ -7,4 +7,4 @@
 </p>
 </details>
 
-[![Discord Presence]([![Discord Presence](https://lanyard.cnrad.dev/api/952231039542108280)](https://discord.com/users/952231039542108280)
+[![Discord Presence](https://lanyard.cnrad.dev/api/952231039542108280)](https://discord.com/users/952231039542108280)
