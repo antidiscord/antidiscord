@@ -1,4 +1,4 @@
-<details open>
+<details>
  <summary> <b>My Github Stats</b> </summary>
 <br>
 <p align = "center">
@@ -7,4 +7,11 @@
 </p>
 </details>
 
+
+
+
+
+
+<details>
 [![Discord Presence](https://lanyard.cnrad.dev/api/952231039542108280)](https://discord.com/users/952231039542108280)
+<details>
