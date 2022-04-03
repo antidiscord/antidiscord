@@ -13,5 +13,6 @@
 
 
 <details>
-[![Discord Presence](https://lanyard.cnrad.dev/api/952231039542108280)](https://discord.com/users/952231039542108280)
+  <summary> <b>Contact</b> </summary>
+<img src="https://lanyard.cnrad.dev/api/952231039542108280" onclick="window.open(https://discord.com/users/952231039542108280)">
 <details>
